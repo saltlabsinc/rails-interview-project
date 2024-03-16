@@ -1,6 +1,4 @@
-# Kaleo Rails Engineer Candidate Interview Project
-
-Thanks for taking the time to complete this exercise. We're excited that you're considering joining our amazing team.
+# Salt Labs Rails Engineer Candidate Interview Project
 
 This Rails application is a basic skeleton of an app that serves an API about questions and answers. It already includes 4 basic models:
 
@@ -41,7 +39,3 @@ To make sure it's all working,
 `rails s`
 
 You should see this same information.
-
-## Submitting your project
-
-Send us a zip file of the whole project for us to evaluate it.  If you need to add any additional instructions to the README please put them at the very top of that file and mention.  Expect to discuss your design decisions during the interview.
